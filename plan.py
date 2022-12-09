@@ -104,7 +104,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("Workout Plan", "Workout Plan"))
         self.label.setText(_translate("MainWindow", "6 Week Weight-Workout Program"))
         self.label_2.setText(_translate("MainWindow", "Select Goal"))
         self.radioButton.setText(_translate("MainWindow", "Power"))
